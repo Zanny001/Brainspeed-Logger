@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "Hour-Logger",
-    "slug": "hour-logger-brainspeed",
+    "name": "Brainspeed Logbook",
+    "slug": "brainspeed-logbook",
     "version": "1.0.0",
-    "owner": "YOUR_EXPO_USERNAME",
+    "owner": "zannie",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "backgroundColor": "#0f172a",
@@ -28,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "YOUR-EAS-PROJECT-UUID"
+        "projectId": "fb168f7e-b785-4624-b935-a5ab2df221a8"
       }
     }
   }
